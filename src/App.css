@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.anton {
+  font-family: "Anton", sans-serif;
+  font-style: normal;
+  color: #ff3131;
+  letter-spacing: 5px;
+}
